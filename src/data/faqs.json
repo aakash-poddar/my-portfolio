@@ -1,0 +1,40 @@
+[
+  {
+    "question": "What technologies do you specialize in?",
+    "answer": "I specialize in building production-grade Java full-stack applications using Spring Boot for backend development and React for frontend interfaces. My expertise includes designing RESTful APIs, implementing secure authentication with Spring Security and JWT, and managing data using Hibernate/JPA with MySQL and MongoDB. I focus on clean architecture, scalable system design, and performance-optimized solutions suitable for real-world applications."
+  },
+  
+  {
+    "question": "What kind of projects have you built?",
+    "answer": "I have built production-ready Java full-stack applications rather than basic demo projects. My key projects include a full-featured eCommerce platform developed using Spring Boot, Hibernate/JPA, and MySQL with secure authentication and role-based access. I have also worked on task management and booking-style applications with RESTful APIs, server-side validation, and responsive React-based user interfaces. These projects focus on clean architecture, scalability, and real-world business logic."
+  },
+  {
+    "question": "Do you have experience with DevOps and Deployment?",
+    "answer": "Yes. I have hands-on experience deploying Java applications using Docker for containerization, ensuring consistent environments across development and production. I package Spring Boot applications into optimized Docker images and deploy them on cloud platforms. I am familiar with CI/CD concepts and follow best practices for environment configuration, application builds, and secure deployment workflows."
+  },
+  {
+    "question": "How do you ensure code quality and stability?",
+    "answer": "I maintain high code quality by following clean code principles, proper layering (Controller, Service, Repository), and meaningful naming conventions. I use validation annotations, exception handling, and logging in Spring Boot to ensure stability. I also focus on modular design, reusable components, and consistent formatting to keep the codebase maintainable and scalable."
+  },
+  {
+    "question": "Do you have full-stack development experience?",
+    "answer": "Yes, I am comfortable working across the entire full stack. On the backend, I build scalable systems using Java, Spring Boot, REST APIs, Hibernate/JPA, and MySQL or MongoDB. On the frontend, I develop responsive interfaces using React, modern JavaScript, and Tailwind CSS. I handle API integration, state management, and authentication to deliver complete end-to-end solutions."
+  },
+  {
+    "question": "Are your projects mobile responsive?",
+    "answer": "Yes, all my projects are designed with a mobile-first and responsive approach. I use modern CSS frameworks and flexible layouts to ensure applications work seamlessly across mobile, tablet, and desktop devices. I regularly test UI responsiveness to maintain a consistent and user-friendly experience on all screen sizes."
+  },
+  {
+    "question": "How do you optimize application performance?",
+    "answer": "I focus on performance at both backend and frontend levels. On the backend, I optimize database queries, use pagination, and apply proper indexing. I design efficient REST APIs and reduce unnecessary data transfer. On the frontend, I ensure efficient rendering, minimize API calls, and implement clean state management to keep applications fast and responsive."
+  },
+  {
+    "question": "What is your approach to security?",
+    "answer": "I follow a security-first mindset while building applications. I implement authentication and authorization using Spring Security and JWT, apply role-based access control, and hash passwords using Bcrypt. I also validate user inputs, secure API endpoints, and manage sensitive configuration through environment variables to protect application data."
+  },
+  {
+    "question": "What are you currently learning or improving?",
+    "answer": "I am currently strengthening my expertise in advanced Spring Boot concepts, system design, and backend architecture. I am learning more about unit and integration testing, improving my understanding of microservices fundamentals, and enhancing my frontend skills to build more efficient and scalable full-stack applications."
+  }
+
+]

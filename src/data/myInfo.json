@@ -1,0 +1,140 @@
+{
+  "id": "coding-bundle",
+  "subtitle": "I build scalable, secure, and production-ready applications using Java and Spring Boot. I design clean RESTful APIs, implement robust business logic, and optimize database interactions to deliver high-performance backend systems with maintainable, testable code.",
+  "badge": "Java Full Stack </>",
+  "gradient": "from-green-400 via-cyan-400 to-blue-500",
+  "buttonColor": "from-green-500 to-cyan-500",
+  "image": "/akashPic.png",
+  "experience": [
+    {
+      "title": "Full Stack Developer (Java & MERN)",
+      "location": "Personal & Practice Projects",
+      "duration": "2024 - Present",
+      "description": [
+         "Built full stack applications using Java Spring Boot and MERN stack, covering backend APIs, database design, and frontend development.",
+      "Implemented secure RESTful APIs, authentication flows, and efficient data handling across projects.",
+      "Developed responsive React-based UIs with clean component structures and smooth user experiences.",
+      "Worked with MySQL and MongoDB while following best practices in code quality, testing, and version control."
+    
+      ],
+      "icon": "💻"
+    }
+  ],
+  "education": [
+    {
+      "location": "Millennium Institute of Technology, Bhopal",
+      "duration": "2022 - Present",
+      "title": "Computer Science & Engineering ",
+      "icon": "💻"
+    },
+    {
+      "location": "Gola Polytechnic Gola ,Ramgarh ,[Jharkhand]",
+      "duration": "2017 - 2020",
+      "title": "Mechanical Engineering",
+      "icon": "🎓"
+    },
+    {
+      "location": "Gola,Ramgarh (Jharkhand)",
+      "duration": "End in 2017",
+      "title": "S.S +2 High School",
+      "icon": "🏫"
+    }
+  ],
+  "techIcons": [
+    {
+      "name": "Git",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+      "size": "large",
+      "angle": 0,
+      "tooltipColor": "#764ABC"
+    },
+    {
+      "name": "Docker",
+      "src": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png",
+      "size": "large",
+      "angle": 51,
+      "tooltipColor": "#2496ED"
+    },
+
+    
+    {
+      "name": "MySQL",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "size": "large",
+      "angle": 102,
+      "tooltipColor": "#5A29E4"
+    },
+     
+    
+    {
+  "name": "Java",
+  "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+  "size": "large",
+  "angle": 153,
+  "tooltipColor": "#ED8B00"
+},
+    {
+  "name": "Spring Boot",
+  "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg",
+  "size": "large",
+  "angle": 204,
+  "tooltipColor": "#6DB33F"
+},
+    {
+      "name": "AI",
+      "src": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/illustrator/illustrator-plain.svg",
+      "size": "large",
+      "angle": 255,
+      "tooltipColor": "#FF9A00"
+    },
+    {
+      "name": "Hibernate",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg",
+      "size": "large",
+      "angle": 306,
+      "tooltipColor": "#000000"
+    },
+    {
+      "name": "HTML",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+      "size": "small",
+      "angle": 0,
+      "tooltipColor": "#E34F26"
+    },
+    {
+      "name": "CSS",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+      "size": "small",
+      "angle": 60,
+      "tooltipColor": "#1572B6"
+    },
+    {
+      "name": "JavaScript",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+      "size": "small",
+      "angle": 120,
+      "tooltipColor": "#F7DF1E"
+    },
+    {
+      "name": "React",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "size": "small",
+      "angle": 180,
+      "tooltipColor": "#61DAFB"
+    },
+    {
+      "name": "Tailwind CSS",
+      "src": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg",
+      "size": "small",
+      "angle": 240,
+      "tooltipColor": "#38B2AC"
+    },
+    {
+      "name": "TypeScript",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+      "size": "small",
+      "angle": 300,
+      "tooltipColor": "#3178C6"
+    }
+  ]
+}
