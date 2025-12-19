@@ -20,12 +20,13 @@ function Form({ itemVariants }) {
     setIsSubmitting(true);
     setStatus(null);
 
+   
     emailjs
       .sendForm(
-        import.meta.env.VITE_SERVICE_ID, // EmailJS service ID
-        import.meta.env.VITE_TEMPLATE_ID, // EmailJS template ID
+        import.meta.env.VITE_EMAILJS_SERVICE_ID, // EmailJS service ID
+        import.meta.env.VITE_EMAILJS_TEMPLATE_ID, // EmailJS template ID
         form.current,
-        import.meta.env.VITE_PUBLIC_KEY // EmailJS publicKey
+        import.meta.env.VITE_EMAILJS_PUBLIC_KEY // EmailJS publicKey
       )
 
       .then(
@@ -39,7 +40,7 @@ function Form({ itemVariants }) {
           setStatus("error");
           setIsSubmitting(false);
           console.log("FAILED...", error.text);
-          console.log("error");
+          console.log(error);
         }
       );
   };
